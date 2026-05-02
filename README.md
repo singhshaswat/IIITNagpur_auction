@@ -85,3 +85,8 @@ The seed data lives in `data/seed.json`. Runtime auction state is written to `da
 
 Prices are stored as whole-number rupee amounts in thousand-level increments, so `12000` displays as `₹12,000`. The minimum bid increment is `₹1,000`.
 # IIITNagpur_auction
+
+### 🌐 Live Demo
+
+Deployed on Render:  
+👉 https://iiitnagpur-auction-1.onrender.com/
